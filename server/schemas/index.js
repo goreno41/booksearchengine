@@ -1,4 +1,4 @@
-const typeDefs = require("./typeDefs")
+import typeDefs from "./typeDefs";
 const resolvers = require("./resolvers");
 
 
