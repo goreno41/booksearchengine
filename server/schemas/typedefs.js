@@ -43,5 +43,4 @@ const typeDefs = gql`
     }
 
 `;
-
-module.exports = typeDefs;
+modules.export= typeDefs
